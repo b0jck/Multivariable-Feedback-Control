@@ -1,0 +1,1 @@
+% normalization of the eigenmodes phi_i % (through the coefficients A B C D)function y = r2rnorm(x,b)global za zcy = (za.*sin(b*x)+cos(b*x)+zc.*sinh(b*x)-cosh(b*x)).^2;
