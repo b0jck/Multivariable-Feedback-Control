@@ -1,0 +1,21 @@
+
+____ HW01 - Matteo Scuderi - 1937090 _________________________________
+
+This folder contains:
+
+- PDF report: HW01_Scuderi_Main.pdf
+
+- Latex file report: HW01_Scuderi_Main.tex
+
+- Matlab Live main scripts: 	- HW01_Single_MSD.mlx
+				- HW01_Double_MSD.mlx (extensions)
+
+- Simulink main script: HW01_Single_MSD.slx
+
+- Simulink auxiliary data: "smooth.mat" (used for smooth input simulation)
+
+- Auxiliary Matlab functions: "sigmoid_f.m"
+
+- "Figures" folder: containing all report figures
+
+- "Data" folder: containing simulink-exported data for Matlab plotting
